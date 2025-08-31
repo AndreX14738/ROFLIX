@@ -1,5 +1,5 @@
 LOGIN DE LA APLICACION 
-![loginROFLIX](loginRoflix.png)
+![loginROFLIX](loginROFLIX.png)
 INICIO DE LA APLICACION
 ![inicio](INICIO.png)
 SELECCION DE PELICULA 
