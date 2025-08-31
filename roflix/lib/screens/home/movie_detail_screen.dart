@@ -63,6 +63,7 @@ class MovieDetailScreen extends StatelessWidget {
                   ElevatedButton.icon(
                     onPressed: () async {
                       await FavoritesService.addFavorite(movie);
+                      
                       ScaffoldMessenger.of(context).showSnackBar(
                         const SnackBar(content: Text('Agregado a favoritos')),
                       );
